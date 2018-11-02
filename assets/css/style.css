@@ -1,10 +1,10 @@
 body {
-    background-image: url("../images/free-vector-blue-watercolor-background.jpg");
+    background-image: url("../images/background.jpg");
     font-style: Georgia,"Times New Roman",Times,serif;
     color: #333333;
     margin: 0 auto;
     padding: 0;
-    background color: #777777;
+    /*background-color: #777777;*/
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -25,7 +25,7 @@ h1 {
     height: 50px;
     position: relative;
     float: left;
-    left: 16%;
+    left: 7%;
     top: 10%;
     text-align: center;
     text-align: bottom;
@@ -48,12 +48,16 @@ h2 {
 .textbox {
     margin: 0px 0px 20px 0px;
     padding: 20px;
-    border-top: solid 1pt #cccccc;
     background-color: #ffffff;
-width: 850px;
+    width: 850px;
     float: left;
     position: relative;
     left: 7%;
+}
+
+.bottomborder {
+    border-bottom: solid 1pt #cccccc;
+    height: 60px;
 }
 
 footer {
