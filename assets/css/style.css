@@ -77,3 +77,47 @@ footer p {
     text-align: center;
     line-height: 1.5cm;
 }
+
+.text-block {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 5px;
+    font-size: 12pt;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+#fname {
+    width: 300px;
+    text-overflow: visible;
+    font-size: 12pt;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin-bottom: 5px;
+}
+
+#lname {
+    width: 300px;
+    text-overflow: visible;
+    font-size: 12pt;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin-bottom: 5px;
+}
+
+#message {
+    width: 500px;
+    height: 200px;
+    text-overflow: visible;
+    font-size: 12pt;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin-bottom: 5px;
+}
+
+.formtext {
+    font-size: 12pt;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin-bottom: 5px;
+}
